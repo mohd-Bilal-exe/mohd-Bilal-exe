@@ -1,6 +1,7 @@
 # Hi there, I'm Bilal! 👋
 
-![Profile views](https://gpvc.arturio.dev/mohd-Bilal-exe)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohd-Bilal-exe)
+
 
 ## About Me
 - 🌱 I’m currently learning advanced web development and exploring new technologies.
