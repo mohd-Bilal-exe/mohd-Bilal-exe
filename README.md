@@ -2,7 +2,7 @@
 
 ### A frontend developer who write fullstack apps, and casually dabble with genAI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-Bilal-exe&label=Profile views&color=0e75b6&style=flat" alt="mohd-Bilal-exe" /> </p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohd-Bilal-exe)
 
 - 🔭 I'm currently working on **motion-on-native — a declarative animation library for React Native inspired by Framer Motion.**
 
