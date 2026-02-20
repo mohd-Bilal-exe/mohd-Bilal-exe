@@ -7,7 +7,6 @@
 ---
 
 ## 🚀 Currently Building
-
 **motion-on-native**  
 A declarative animation library for React Native inspired by Framer Motion.  
 Focused on layout transitions, mount and exit control, and fine-grained animation triggers.
@@ -15,42 +14,34 @@ Focused on layout transitions, mount and exit control, and fine-grained animatio
 ---
 
 ## 🌱 Currently Exploring
-
 Studying system design, scalable architectures, and performance tradeoffs.
 
 ## 👯 Open to Collaborate On
-
 Open source tools, developer-focused products, and AI-powered applications.
 
 ## 🤝 Looking for Guidance In
-
 Distributed systems, backend architecture, and advanced system design.
 
 ---
 
 ## 📫 Reach Me At
-
 **mohammadbilal.mail@gmail.com**
 
 ## 👨‍💻 Portfolio
-
 All of my projects are available at:  
 - [Portfolio](https://mohammad-bilal.netlify.app/)
 
 ## 📄 Experience
-
 - [View My Resume](https://drive.google.com/file/d/1A3MEQ8T2zhAnXMWewjK8HOxJIoOEo3e8/view?usp=sharing)
 
 ---
 
 ## ⚡ Fun Fact
-
 I love capturing unusual perspectives with my camera and chasing PRs in the gym.
 
 ---
 
 ## 🤝 Connect With Me
-
 <p align="left">
 <a href="https://github.com/mohd-Bilal-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohd-Bilal-exe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd--bilal--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd--bilal--" height="30" width="40" /></a>
@@ -60,7 +51,6 @@ I love capturing unusual perspectives with my camera and chasing PRs in the gym.
 ---
 
 ## 🛠 Languages & Tools
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
