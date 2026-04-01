@@ -11,8 +11,8 @@
 A declarative animation library for React Native inspired by Framer Motion.  
 Focused on layout transitions, mount and exit control, and fine-grained animation triggers.
 
-**fluxAPI**  
-FluxAPI is a declarative backend execution engine that lets developers design, run, and scale APIs using execution graphs instead of traditional server code.
+**Orchera**  
+Orchera is a declarative backend execution engine that lets developers design, run, and scale APIs using execution graphs instead of traditional server code.
 
 ---
 
